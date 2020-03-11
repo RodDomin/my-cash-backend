@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vscode/
+.idea/
+coverage/
+
+__tests__/coverage/
+
+.env
+.env.test
